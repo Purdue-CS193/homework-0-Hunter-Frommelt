@@ -40,5 +40,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Additional Links
 
-- [Download free RAM here](example.com)
-- [See my exact location here](earth.google.com/web)
+- [Download free RAM here](https://example.com)
+- [See my exact location here](https://earth.google.com/web)
