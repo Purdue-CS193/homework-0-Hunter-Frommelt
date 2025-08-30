@@ -2,13 +2,13 @@
 
 `System.out.print("Wow! It's so cool that I'm on Hunter's GitHub project!")`
 
-## My favorite things about CS193
+## My Favorite Things About CS193
 - 193 is prime (*I think...*)
 - Tailored to make my transition into Purdue CS easier
 - Student-led (which is awesome because I'm a student!)
 - Item4
 
-## Boring stuff that was here before Hunter
+## Boring Stuff that was Here Before Hunter
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
