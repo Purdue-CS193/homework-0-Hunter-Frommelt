@@ -1,10 +1,18 @@
-## Welcome to GitHub Pages
+# Hunter Frommelt First CS193 Homework
+
+`System.out.print("Wow! It's so cool that I'm on Hunter's GitHub project!")`
+
+## My favorite things about CS193
+- 193 is prime (*I think...*)
+- Tailored to make my transition into Purdue CS easier
+- Student-led (which is awesome because I'm a student!)
+- Item4
+
+## Boring stuff that was here before Hunter
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-`System.out.print("Wow! It's so cool that I'm on Hunter's GitHub project!")`
 
 ### Markdown
 
